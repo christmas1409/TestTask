@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "my7aEwPzXCWnssPJBTvxG79UChJDra3Kgogi5hsdqkI=",
+  "Source": "TextMessengerAPI.Web",
+  "BasePath": "_content/TextMessengerAPI.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TextMessengerAPI.Web\\wwwroot",
+      "Source": "TextMessengerAPI.Web",
+      "ContentRoot": "C:\\Users\\Arhim\\source\\repos\\TextMessengerAPI.Web\\wwwroot\\",
+      "BasePath": "_content/TextMessengerAPI.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
